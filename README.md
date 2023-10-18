@@ -8,7 +8,7 @@ Things it includes are:
 - Water rendering
 - Instancing
 - Shadow Buffers
-- Heightmap generation
+- Heightmap-based terrain generation
 - A 'first person' model following the camera (acts as flashlight)
 - Very basic physics
 - Instancing
